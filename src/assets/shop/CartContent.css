@@ -1,0 +1,11 @@
+.LimitQuantity {
+  background-color: antiquewhite;
+  border: 3px dotted #b06006;
+  color: #B82E24;
+  margin-top: 5px;
+  padding: 5px;
+}
+.Quantity {
+  height: 26px;
+  width: 55px;
+}
